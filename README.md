@@ -65,7 +65,7 @@ Diagrama de flujo que detalla la configuración de la instancia **EC2 (Ubuntu Se
 
 Diagrama de flujo del ecosistema de Business Intelligence, conectando el origen de datos en AWS con los tableros de control para la toma de decisiones.
 
-![Estrategia BI](https://github.com/user-attachments/assets/cb7034ae-88e1-4c62-b588-3a51969e4c5e)
+![Estrategia BI](https://github.com/user-attachments/assets/4bda8b27-8fe7-4adb-9bc3-80854a44f2a4)
 
 ---
 
